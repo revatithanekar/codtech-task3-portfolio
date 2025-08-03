@@ -1,3 +1,4 @@
+🎯 CODTECH Internship - Task 3
 # 💼 Personal Portfolio Website
 
 This is a simple, bright, and responsive personal portfolio website created as part of **CODTECH Internship Task-3** using only HTML and CSS.
@@ -38,6 +39,7 @@ Internship: CodTech Task-3 – Personal Portfolio
 Skills: HTML, CSS, Responsive Design
 GitHub: github.com/yourusername
 LinkedIn: linkedin.com/in/yourname
+
 
 
 
