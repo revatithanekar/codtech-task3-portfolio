@@ -35,10 +35,14 @@ This is a simple, bright, and responsive personal portfolio website created as p
 
 👩‍💻 [About Me]
 Name: Revati Rajesh Thanekar
+
 Internship: CodTech Task-3 – Personal Portfolio
+
 Skills: HTML, CSS, Responsive Design
-GitHub: github.com/yourusername
-LinkedIn: linkedin.com/in/yourname
+
+GitHub: github.com/revatithanekar
+LinkedIn: linkedin.com/in/revtithanekar
+
 
 
 
